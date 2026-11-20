@@ -1,5 +1,5 @@
----
-title: "data_preparation"
-output: html_document
----
+# Data preparation
 
+```{r load_data_prep, message=FALSE, warning=FALSE}
+# Add data preparation code here
+```

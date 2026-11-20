@@ -1,0 +1,16 @@
+# Codeome agent jobs
+.codeome/jobs/
+.codeome/worktrees/
+.codeome/plans/
+.codeome/context/
+.codeome/touched/
+.codeome/inbox/
+.codeome/outbox/
+.codeome/inbox-support.json
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+_book/
+_bookdown_files/
+*_files/
